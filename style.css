@@ -1,0 +1,77 @@
+/*
+Theme Name: Lulu Custom
+Description: Basic Theme for Lulu Fashion Website
+Author: Thomas Z Lukoma
+Author URI: http://morethanahut.com
+*/
+
+
+body {
+	font-family:verdana, arial, helvetica, sans-serif;
+	font-size:16px
+	color:#555;
+	background:#eee;
+}
+
+#page {
+	width:960px;
+	margin: 0 auto;
+	background; white;
+	border: 1px solid silver;
+}
+
+#header {
+	width: 950px;
+	height:100px;
+	background:#3CF;
+	color: #003;
+	padding: 5px;
+}
+
+#header h1 a {
+	color:white;
+	font-size:22px;
+	font-family:Georgia;
+	text-decoration:none;
+}
+
+#header h2 {
+	font-size: 16px;
+	font-family: Georgia;
+	color: #eee;
+}
+
+#main {
+	width:600px;
+	float:left;
+}
+
+#side {
+	width:220px;
+	margin: 0 15px;
+	float:left;
+}
+
+.sidebar-left {
+	width:220px;
+	margin: 0 15px;
+	float:left;
+}
+
+#footer {
+	clear:both;
+	width: 960px;
+	height: 50px;
+	background: black;
+	color:	white;
+}
+
+#footer p {
+	text-align:center;
+	font-size:12px;
+	padding: 15px 0;
+}
+
+#footer a {
+	color:white;
+}
